@@ -1,0 +1,41 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* header */
+#navbar a{
+    font-size: 18px;
+    font-weight: bold;
+}
+/* home section */
+.home h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+.home p{
+    font-size: 24px;
+    font-weight: lighter;
+}
+/* skiils-section */
+#skills p{
+    font-size: 16px;
+    font-weight: 500;
+}
+.rate{
+    font-weight: bold;
+}
+/* portfolio */
+.description a , button{
+    font-weight: 600;
+}
+/* contact */
+input{
+    font-size: 16px;
+}
+button{
+    font-size: 16px;
+}
+/* footer */
+footer i{
+    font-size:32px;
+    font-weight: bold;
+}
